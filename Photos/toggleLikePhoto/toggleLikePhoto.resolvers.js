@@ -22,7 +22,6 @@ export default {
           where: likeWhere,
         });
       } else {
-        console.log(loggedInUser);
         await client.like.create({
           data: {
             user: { connect: { id: loggedInUser.id } },
