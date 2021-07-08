@@ -13,22 +13,28 @@ Instaclone Backend.
 - [x] Unfollow user
 - [x] See Followers w/ offset Pagination
 - [x] See Following w/ cursor Pagination
-- [] Computed Fields
-- [] Search Users
+- [x] Computed Fields
+- [x] Search Users
 
 ## Photos
 
-- [ ] See Photo
-- [ ] Upload Photo
-- [ ] Edit Photo
-- [ ] Like / Unlike Photo
-- [ ] See Photo Likes
-- [ ] See Feed
-- [ ] Search Photos
-- [ ] See Hashtags
+- [x] Upload Photo (Parse #)
+- [x] See Photo
+- [x] See Hashtags
+- [x] Search Photos
+- [x] Edit Photo
+- [x] Like / Unlike Photo
+- [x] See Photo Likes
+- [x] See Feed
+- [x] See Photo Comments
+- [x] Delete Photo
 
 ## Comments
 
-- [ ] Comment on Photo
+- [x] Comment on Photo
+- [x] Delete Comment
 - [ ] Edit Comment
-- [ ] Delete Comment
+
+## Extras
+
+- [] S3 Image Upload
