@@ -42,3 +42,12 @@ Instaclone Backend.
 ## Extras
 
 - [x] S3 Image Upload
+
+## DMs
+
+- [x] See Rooms
+- [x] Send Message (Create Room)
+- [x] see Room
+- [x] Computed Fields
+- [x] See Message
+- [x] Realtime Messages (교육용으로 apollo-PupSub / 실제상품용으로는 Redis PubSub 사용 추천 : 차이점은 무료&유료)
