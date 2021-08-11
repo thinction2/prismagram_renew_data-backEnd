@@ -5,7 +5,7 @@ export default {
   Query: {
     seeFeed: protectedResolver(async (_, { offset }, { loggedInUser }) =>
       client.photo.findMany({
-        take: 2,
+        take: 4,
         skip: offset,
         where: {
           OR: [
